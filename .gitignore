@@ -1,0 +1,7 @@
+config.env
+log.txt
+*auth_token.txt
+*.pyc
+data*
+.vscode
+.idea
